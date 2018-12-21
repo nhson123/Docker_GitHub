@@ -4,8 +4,10 @@
  * Generated at: 19.12.2018 2018
  */
 public class DockerGit {
-    public static void main(String [ ] args)
-    {
-    System.out.println("halhalha");
+    public static void main(String [ ] args) throws InterruptedException {
+    for (int i = 0; i < 10; i++) {
+      System.out.println(i+": halhalha");
+      Thread.sleep(1000);
+    }
     }
 }
