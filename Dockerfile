@@ -29,8 +29,13 @@ ADD . /usr/local/DockerGit
 RUN cd  /usr/local/DockerGit && mvn assembly:assembly
 
 #THE CMD COMMAND tells docker the command to run when the container is started up from the image. In this case we are
-# executing the java program as is to print Hello World.
-# CMD ["java", "-cp", "target\docker_git-1.0-SNAPSHOT-jar-with-dependencies.jar", "DockerGit"]
 CMD ["java", "-jar",  "/usr/local/DockerGit/target/docker_git-1.0-SNAPSHOT-jar-with-dependencies.jar"]
+# executing the java program as is to print Hello World.
+# CMD ["java", "-cp", "/usr/local/DockerGit/target/docker_git-1.0-SNAPSHOT-jar-with-dependencies.jar", "DockerGit"]
+#java -cp /usr/local/DockerGit/target/docker_git-1.0-SNAPSHOT-jar-with-dependencies.jar DockerGit
 #java -cp target\docker_git-1.0-SNAPSHOT-jar-with-dependencies.jar DockerGit
 #CMD ["java", "-version"]
+
+# to build a image
+# docker build -t image_name . (. if you are actually in the same ordner as the Dockerfile)
+# to log as bash: docker exec -it conaitner-name /bin/bash
