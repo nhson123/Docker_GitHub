@@ -12,3 +12,7 @@ public class DockerGit {
     }
     }
 }
+/**
+ * catlight is to monitor jenkins https://catlight.io/downloads
+ * CI/CD https://www.youtube.com/watch?v=m0a2CzgLNsc
+ */
