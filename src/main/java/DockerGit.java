@@ -8,7 +8,7 @@ public class DockerGit {
     public static void main(String [ ] args) throws InterruptedException {
     for (int i = 0; i < 10; i++) {
       System.out.println(i+": ich bin ein Test von Son und nun mit Jenkins");
-      Thread.sleep(1000);
+      Thread.sleep(1500);
     }
     }
 }
