@@ -10,3 +10,7 @@ R
 "src/main/java/META-INF/MANIFEST.MF,6\3\63ef5783cbf71fdf39c1fd6ae6873fd812259930
 L
 src/main/java/DockerGit.java,9\c\9c1359401f246ebb14322d952b0011e3358db67f
+Q
+!.idea/artifacts/DockerGit_jar.xml,6\0\60718399530a3ff93d618929c6c789889385f244
+L
+.idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
