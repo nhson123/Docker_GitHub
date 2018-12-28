@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7e14c0-d6fd-4fc8-adb5-1c7c53fd6636" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cucumber/src/Project_Documatation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Cucumber/src/Project_Documatation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DockerGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DockerGit.java" afterDir="false" />
+    <list default="true" id="6a7e14c0-d6fd-4fc8-adb5-1c7c53fd6636" name="Default Changelist" comment="dockerfile 3.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -258,13 +257,28 @@
       <option name="project" value="LOCAL" />
       <updated>1545397375078</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dockerfile 3.">
+      <created>1546030947032</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546030947032</updated>
+    </task>
+    <task id="LOCAL-00006" summary="dockerfile 3.">
+      <created>1546030989128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546030989128</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1942319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19599764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -300,12 +314,14 @@
     <MESSAGE value="1.Commit" />
     <MESSAGE value="dockerfile 1." />
     <MESSAGE value="dockerfile 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="dockerfile 2." />
+    <MESSAGE value="dockerfile 3." />
+    <option name="LAST_COMMIT_MESSAGE" value="dockerfile 3." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/javatest/son.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -333,9 +349,6 @@
           <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/javatest/son.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DockerGit.java">
       <provider selected="true" editor-type-id="text-editor">
